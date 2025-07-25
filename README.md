@@ -58,3 +58,14 @@ FOR ALL
 USING (true)
 WITH CHECK (true);
 ```
+📚 O que eu aprendi
+Este projeto foi desenvolvido como preparação para uma entrevista de emprego como Assistente de TI.
+Ele me ajudou a treinar:
+
+🧠 Integração de frontend com backend (Supabase)
+
+💾 Manipulação de dados com JavaScript assíncrono
+
+🔗 Conceitos de banco de dados em nuvem e APIs REST
+
+⚙️ Organização e boas práticas com HTML e JS moderno
