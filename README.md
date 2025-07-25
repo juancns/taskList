@@ -34,6 +34,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 2. Edite o arquivo script.js e configure as seguintes variáveis com as informações do seu projeto Supabase:
 
    const supabaseUrl = "https://SEU-PROJETO.supabase.co](https://kdlggftntqejqfsbilgd.supabase.co";
+   
    const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtkbGdnZnRudHFlanFmc2JpbGdkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM0NjQ4NzIsImV4cCI6MjA2OTA0MDg3Mn0.9BvpE1BoY6N2rSsEB3MD1cqff-s__zv1S9QgTGjwBBQ";
 
 ## 🛠️ Configurando o Supabase
